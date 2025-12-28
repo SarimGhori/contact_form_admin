@@ -78,5 +78,3 @@ Author
 
 Sarim Ghori
 PHP Developer
-
-If you want even shorter README or Urdu version, tell me 😊
